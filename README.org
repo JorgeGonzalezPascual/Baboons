@@ -1,0 +1,11 @@
+#+title: Practica 2 Concurrente: Babuinos
+
+#+HTML:<a href="https://www.uib.eu//"><img alt="UIB logo" height="160" align = "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Escut_UIB.svg/1058px-Escut_UIB.svg.png"></a>
+En un valle hay una cuerda que une el norte con el sur. A lo largo del dia unos *babuinos* hacen 3 veces lo mismo: Cruzar la cuerda, bajar la montaña, subir la montaña 
+Hay dos restricciones a tener en cuenta:
+
+     La cuerda solo puede soportar el peso de 3 babuinos 
+     
+     Solo puede haber babuinos del norte o babuinos del sur en la cuerda 
+
+Implementar esta simulación en [[https://www.adacore.com/about-ada][ADA]] usando monitores como única herramienta de sincronía 
